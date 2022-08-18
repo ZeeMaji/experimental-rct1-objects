@@ -1,0 +1,168 @@
+{
+    "id": "rct1aa.ride.virginia_reel_tubs",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "00000000|#RCT1REL|00000000",
+    "sourceGame": "rct1aa",
+    "objectType": "ride",
+    "properties": {
+        "type": "virginia_reel",
+        "category": "rollercoaster",
+        "carColours": [
+            [
+                ["bright_red", "yellow", "black"]
+            ],
+            [
+                ["light_blue", "yellow", "black"]
+            ],
+            [
+                ["dark_green", "light_brown", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 3,
+            "spacing": 208896,
+            "mass": 600,
+            "numSeats": 4,
+            "seatsInPairs": false,
+            "animation": 7,
+            "numSeatRows": 4,
+            "spinningInertia": 7,
+            "spinningFriction": 6,
+            "frictionSoundId": 1,
+            "soundRange": 1,
+            "drawOrder": 6,
+            "spriteGroups": {
+                "slopeFlat":1,
+                "slopes12":4,
+                "slopes25":4
+            },
+            "hasAdditionalColour1": true,
+            "hasVehicleAnimation": true,
+            "hasScreamingRiders": true,
+            "loadingPositions": [4, -4, 4, -4]
+        },
+        "buildMenuPriority": 1
+    },
+    "images": [
+        "$CSG[64254]",
+        "",
+        "",
+        "$CSG[28050..28053]",
+
+        "$CSG[28054..28069]",
+
+        "$CSG[28062..28069]",
+        "$CSG[28054..28061]",
+
+        "$CSG[28070..28085]",
+
+        "$CSG[28078..28085]",
+        "$CSG[28070..28077]",
+
+
+
+        "$CSG[28086..28089]",
+
+        "$CSG[28090..28105]",
+
+        "$CSG[28098..28105]",
+        "$CSG[28090..28097]",
+
+        "$CSG[28106..28121]",
+
+        "$CSG[28114..28121]",
+        "$CSG[28106..28113]",
+
+        "$CSG[28122..28125]",
+
+        "$CSG[28126..28141]",
+
+        "$CSG[28134..28141]",
+        "$CSG[28126..28133]",
+
+        "$CSG[28142..28157]",
+
+        "$CSG[28150..28157]",
+        "$CSG[28142..28149]",
+
+        "$CSG[28158..28161]",
+
+        "$CSG[28162..28177]",
+
+        "$CSG[28170..28177]",
+        "$CSG[28162..28169]",
+
+        "$CSG[28178..28193]",
+
+        "$CSG[28186..28193]",
+        "$CSG[28178..28185]",
+
+        "$CSG[28194..28197]",
+
+        "$CSG[28198..28213]",
+
+        "$CSG[28206..28213]",
+        "$CSG[28198..28205]",
+
+        "$CSG[28214..28229]",
+
+        "$CSG[28222..28229]",
+        "$CSG[28214..28221]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Virginia Reel Tubs",
+            "de-DE": "Virginia-Reel-Wagen",
+            "es-ES": "Danza de Virginia",
+            "it-IT": "Bobine della Virginia",
+            "nl-NL": "Virginia Reel-wagentjes",
+            "sv-SE": "Virginiavirvel-vagnar",
+            "ko-KR": "버지니아 릴 차량",
+            "zh-CN": "维吉尼亚式旋转",
+            "zh-TW": "維吉尼亞式旋轉",
+            "cs-CZ": "Virginský moták",
+            "ja-JP": "バージニア・リール",
+            "pl-PL": "W koło Macieju",
+            "pt-BR": "Toneis Virginia Reel",
+            "ru-RU": "Вирджиния",
+            "eo-ZZ": "Kuvoj de Virginia Reel"
+        },
+        "description": {
+            "en-GB": "Circular cars that spin around as they travel along the track",
+            "fr-FR": "Voitures de forme circulaire tournant sur elles-même tout en parcourant une voie en bois faite de zigzags",
+            "de-DE": "Runde Wagen, die sich bei der Fahrt drehen",
+            "es-ES": "Vagones circulares que rebotan mientras corren sobre la pista de madera en zigzag",
+            "it-IT": "Carrozze circolari ruotano per il tracciato di legno a zig-zag",
+            "nl-NL": "Ronde karretjes gaan over een zigzaggende houten baan en draaien daarbij rond.",
+            "sv-SE": "Runda vagnar som snurrar medan de åker längs banan",
+            "ko-KR": "나무 트랙을 이리 저리 따라 이동함에 따라 빙글빙글 돌아가는 원형 차량",
+            "zh-CN": "圆形车辆延着急弯的木架轨道自旋",
+            "zh-TW": "圓形車輛延著急彎的木架軌道自旋",
+            "pt-BR": "Carros circulares giram enquanto viajam pela pista",
+            "cs-CZ": "Kulaté vozy se točí během jízdy po cik-cak dřevěné trati",
+            "ja-JP": "円形の車両が木製のコース上を回転しながらジグザグに進んで行く乗物です",
+            "pl-PL": "Okrągłe wagoniki wirują, jadąc po zygzakowatym drewnianym torze",
+            "ru-RU": "Круглые вагончики едут по трассе и одновременно крутятся.",
+            "eo-ZZ": "Rondaj ĉaroj, kiuj turniĝante veturas laŭ la trako"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 Fahrgäste pro Wagen",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri a carrozza",
+            "nl-NL": "4 passagiers per karretje",
+            "sv-SE": "4 passagerare per vagn",
+            "ko-KR": "차량당 4명의 승객",
+            "zh-CN": "4 位乘客/每个车厢",
+            "zh-TW": "4 位乘客/每個車廂",
+            "pt-BR": "4 passageiros por carro",
+            "cs-CZ": "4 místa v každém voze",
+            "ja-JP": "各車両4名",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 пассажира",
+            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro"
+        }
+    }
+}
